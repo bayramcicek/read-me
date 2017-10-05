@@ -8,6 +8,9 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
+# The largest heading
+## The second largest heading
+###### The smallest heading
 
 ## *Click file then click "raw" to see source :*
 
