@@ -8,6 +8,7 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
+
 ## *Click file then click "raw" to see source :*
 
 **This is bold text**	This is bold text
@@ -99,3 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
+[for more](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
