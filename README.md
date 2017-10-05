@@ -1,5 +1,7 @@
-## *[This template's original owner is @PurpleBooth]*(https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title) - Forked from @PurpleBooth
-
+## *[This template's original owner is @PurpleBooth]* - [Forked from @PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)
+--------------------------------------------------------------
+### [@byrmcicek](https://github.com/byrmcicek)
+--------------------------------------------------------------
 # Project Title
 
 One Paragraph of project description goes here
