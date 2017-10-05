@@ -1,12 +1,22 @@
 ## *[This template's original owner is @PurpleBooth]* - [Forked from @PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)
 --------------------------------------------------------------
-### [@byrmcicek](https://github.com/byrmcicek)
+### [edited by @byrmcicek](https://github.com/byrmcicek)
 --------------------------------------------------------------
 # Project Title
 
 One Paragraph of project description goes here
 
 ## Getting Started
+
+## *Click file then click "raw" to see source :*
+
+**This is bold text**	This is bold text
+
+*This text is italicized*	This text is italicized
+
+~~This was mistaken text~~	This was mistaken text
+
+**This text is _extremely_ important**	This text is extremely important
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
