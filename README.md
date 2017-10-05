@@ -2,6 +2,9 @@
 --------------------------------------------------------------
 ### [edited by @byrmcicek](https://github.com/byrmcicek)
 --------------------------------------------------------------
+
+## *Click file then click "raw" to see source :*
+
 # Project Title
 
 One Paragraph of project description goes here
