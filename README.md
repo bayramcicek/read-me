@@ -1,4 +1,4 @@
-## *[This template's original owner is @PurpleBooth]* - [Forked from @PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)
+## *[The original form of this template is owned by @PurpleBooth]* - [Forked from @PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)
 --------------------------------------------------------------
 ### [edited by @byrmcicek](https://github.com/byrmcicek)
 --------------------------------------------------------------
