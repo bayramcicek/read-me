@@ -1,0 +1,22 @@
+26 lines (10 sloc)  395 Bytes
+1.	cd ~       	enter
+2.	cd Desktop/ enter
+
+3.	git clone (link) yaz enter (klonladı dosya oluştu)
+
+
+
+4.	cd (Repository name Dosyanın ismini yaz)/   yaz enter
+5.	oluşan dosyanın içine istediğin belgeleri at
+
+6.	git status    yaz enter(belgeleri algıladı)
+7.	git add .     yaz enter
+
+
+
+8.	git commit -m "(belge açıklaması yaz)" enter
+9.	git push origin master
+
+
+
+10.	github sayfasını yenile...
