@@ -1,4 +1,3 @@
-26 lines (10 sloc)  395 Bytes
 1.	cd ~       	enter
 2.	cd Desktop/ enter
 
