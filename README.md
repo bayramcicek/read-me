@@ -16,6 +16,8 @@ If you need to embed an image that's hosted elsewhere, you can use a full URL
 ```
 GitHub recommend that you use relative links with the ?raw=true parameter to ensure forked repos point correctly.
 
+![Text view](https://github.com/byrmcicek/README/blob/master/gitpic.PNG?raw=true)
+
 One Paragraph of project description goes here
 
 ## Getting Started
