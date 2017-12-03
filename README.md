@@ -7,13 +7,13 @@
 # Project Title
 
 Provided that you have the image in your repo, you can use a relative URL:
-
-"  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")   "
-
+```
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+```
 If you need to embed an image that's hosted elsewhere, you can use a full URL
-
+```
 ![Alt text](http://full/path/to/img.jpg "Optional title")
-
+```
 GitHub recommend that you use relative links with the ?raw=true parameter to ensure forked repos point correctly.
 
 One Paragraph of project description goes here
