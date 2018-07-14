@@ -1,4 +1,4 @@
-## [original source @PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)
+## [original source](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)
 --------------------------------------------------------------
 
 ## *Click file then click "raw" to see source :*
